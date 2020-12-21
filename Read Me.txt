@@ -1,0 +1,4 @@
+
+Process to Detect lines and curves in Image processing
+
+Hough transform and convolution-based techniques.
