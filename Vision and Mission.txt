@@ -6,3 +6,10 @@ https://www.youtube.com/watch?v=aimSGOAUI8Y&t=531s
 
 
 Edje Electronics on YT
+
+To get the total count of stairs line I need to either filter Inage to the Black background or to calculate image using blob as stackover flow suggests 
+Algorithm that I am using is Hough line transformation algorithm.
+
+This algorithm helps to finds the edges, lines ,curves in an Image. 
+
+In process -- To use of live video would be a better idea so that there is no extra burden to the system.
